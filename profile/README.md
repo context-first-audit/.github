@@ -1,10 +1,17 @@
 # Context-First Audit
 
-This namespace is reserved for the Context-First Audit Framework by IndexMesh.
+This namespace is reserved by IndexMesh for Context-First Audit.
 
-Primary development and documentation live under:
+Context-First Audit is planned as an IndexMesh methodology/module for reviewing pages, brands, and content from declared intent, audience, purpose, competitive context, and evidence before optimization recommendations are made.
 
-- [IndexMesh](https://github.com/indexmesh)
-- [indexmesh/platform](https://github.com/indexmesh/platform)
+## Current Status
+
+This organization is a reserved namespace. Active development and canonical documentation live under the primary IndexMesh organization.
+
+## Primary Links
+
+- [IndexMesh organization](https://github.com/indexmesh)
+- [IndexMesh docs](https://github.com/indexmesh/docs)
+- [IndexMesh platform](https://github.com/indexmesh/platform)
 
 Built by [Xavier Emerson](https://github.com/agentx4u).
